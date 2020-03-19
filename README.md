@@ -1,2 +1,2 @@
 # Test2
-for testing connection
+for testing connection on configuration
